@@ -4,9 +4,9 @@ ToDoList Project
 The ToDoList project is a web-based task management application designed to help individuals and teams efficiently organize their daily tasks, activities, and projects. 
 ## Technology Stack
 The ToDoList project is built using the following technologies:
-- Frontend: 
-- Backend: 
-- Database: 
+- Frontend: Twig,Html,Css,Bootstrap
+- Backend: Php,Symfony
+- Database: MariaDB
 
 ## Team
 The ToDoList project is developed and maintained by the following team members:
