@@ -1,6 +1,6 @@
-ToDoList Project
+# ToDoList Project
 
-# About Project
+## About Project
 The ToDoList project is a web-based task management application designed to help individuals efficiently organize their daily tasks. 
 
 ## Technology Stack
