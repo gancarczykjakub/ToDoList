@@ -11,7 +11,7 @@ The ToDoList project is built using the following technologies:
 
 ## Team
 The ToDoList project is developed and maintained by the following team members:
-- Jakub Gancarczyk (main developer)
+- Jakub Gancarczyk (main developer) - fullstack 
 - Łukasz Stańczyk (mentor)
 
 ## How to Run Locally
